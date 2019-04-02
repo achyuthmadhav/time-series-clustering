@@ -26,6 +26,7 @@ Step 2: Download a time series dataset from the above link (or any CSV/TSV datas
 
 Step 3: Create a synthetic dataset. Run the randwalk_gen.m as follows (num_ts: number of time series, ts_size: size of time series to create)
         >>randwalk_gen(num_ts, ts_size)
+
 OR
 
 Step 3: Use bird songs data (https://www.xeno-canto.org), refer Bird_Song.zip and run birdsong_gen.m
