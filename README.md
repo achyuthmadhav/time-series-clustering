@@ -13,7 +13,7 @@ AchyuthDiwakar_Report.pdf or the link below for detailed info.
 https://docs.google.com/presentation/d/1dhwWNoGYqSQSf99950MuRv9_p5mjjyUWp1GiYD07D8o/edit?usp=sharing
 
 # Datasets: 
-UCR Time Series Repository (https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) OR birdsong.zip
+UCR Time Series Repository (https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) OR Bird_Song.zip
 
 # Instructions:
 
@@ -26,7 +26,9 @@ Step 2: Download a time series dataset from the above link (or any CSV/TSV datas
 
 Step 3: Create a synthetic dataset. Run the randwalk_gen.m as follows (num_ts: number of time series, ts_size: size of time series to create)
         >>randwalk_gen(num_ts, ts_size)
-        
+OR
+
+Step 3: Use bird songs data (https://www.xeno-canto.org), refer Bird_Song.zip and run birdsong_gen.m
         
 Step 4: Cluster the dataset. Run the consensus_seg.m as follows
         >>consensus_seg(num_ts, subsequence_length)
