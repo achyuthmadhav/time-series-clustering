@@ -1,7 +1,7 @@
 # Clustering of Time Series Using Consensus Motifs
 # Master's Capstone Project, UC Riverside 2019
 
-Advisor: Prof. Eamonn Keogh, University of California Riverside (https://www.cs.ucr.edu/~eamonn/)
+Advisor: [Prof. Eamonn Keogh, University of California Riverside](https://www.cs.ucr.edu/~eamonn/)
 
 # Abstract
 The ubiquitous nature of time series and the need to effectively analyze time series data has provided the motivation for this project. The consensus motif search algorithm is a powerful tool that can retrieve the best repeated structure in a dataset of time series. The objective of this project is to use consensus motifs to cluster the time series into the classes to which they belong. Using the properties of consensus motifs and a forward selection approach a clustering algorithm was developed. Experiments performed on synthetic and real world data provide further evidence that consensus motifs can be used for time series clustering. The MATLAB application developed for this purpose, successfully clustered time series of different classes with high accuracy. The properties of the algorithm and scope for future work has also been covered in this research endeavor.
