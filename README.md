@@ -1,5 +1,5 @@
 # time-series-clustering
-# Master's Capstone Project
+# Master's Capstone Project, UC Riverside 2019
 
 Advisor: Prof. Eamonn Keogh, University of California Riverside (https://www.cs.ucr.edu/~eamonn/)
 
