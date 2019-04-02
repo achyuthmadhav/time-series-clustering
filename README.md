@@ -18,7 +18,7 @@ UCR Time Series Repository (https://www.cs.ucr.edu/%7Eeamonn/time_series_data_20
 # Instructions:
 
 Step 0: The Consensus Motif Algorithm is the property of Prof. Keogh's research lab at UC Riverside. 
-        Drop an [email](eamonn.keogh@ucr.edu) to Prof. Keogh requesting access and CC: madhav.achyuth@gmail.com
+        Drop an email to Prof. Keogh (eamonn.keogh@ucr.edu) requesting access and CC: madhav.achyuth@gmail.com
 
 Step 1: Add all the MATLAB files in the repo and consensus motifs scripts (Step 0) to your MATLAB path.
 
